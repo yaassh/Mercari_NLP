@@ -23,3 +23,11 @@ Price: the price that the item was sold for. This is the target variable that yo
 ### Work on supply and demand
 
 Source: https://www.kaggle.com/c/mercari-price-suggestion-challenge
+
+# Solution:
+
+## Problem Definition:
+
+The objective is to come up with the right pricing algorithm that can we can use as a pricing recommendation to the users.
+Allowing the users to see a suggest price before purchasing or selling will hopefully allow more transaction within Mercari's business.
+This problem can be solved using a supervised learning approach, and possible some unsupervised learning methods as well for clustering analysis.
